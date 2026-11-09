@@ -9,7 +9,7 @@ A small, tested analytics pipeline for a construction-software product:
 
 - Write-up (data model and how the boundary is enforced): **[DESIGN.md](DESIGN.md)**
 - Event dictionary: [docs/TRACKING_PLAN.md](docs/TRACKING_PLAN.md)
-- Live dashboard: `<PASTE YOUR STREAMLIT LINK HERE>`
+- Live dashboard: `https://sledge-analytics-poc-8segedxkmkzfu93nxctby3.streamlit.app/`
 
 ## What an event looks like
 
